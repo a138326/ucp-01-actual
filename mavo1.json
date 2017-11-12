@@ -2,8 +2,19 @@
 	"bill-snapshot": "//d1qmdf3vop2l07.cloudfront.net/undisturbed-rug.cloudvent.net/compressed/bc2e2db7bcda6873695abf54f4674f7d.png",
 	"bill-period-short": "12 Aug to 13 Nov",
 	"nav-label-01": "Summary",
-	"nav-label-02": "Breakdown",
+	"nav-label-02": "details",
 	"nav-label-03": "Usage",
 	"nav-label-04": "Plan",
-	"nav-label-05": "Help"
+	"nav-label-05": "Help",
+	"bill-intro": "//d1qmdf3vop2l07.cloudfront.net/undisturbed-rug.cloudvent.net/compressed/bc2e2db7bcda6873695abf54f4674f7d.png",
+	"account-summary": "//d1qmdf3vop2l07.cloudfront.net/undisturbed-rug.cloudvent.net/compressed/f5b595c0eb55562bda5885ba9f07adbc.png",
+	"bill-card": "//d1qmdf3vop2l07.cloudfront.net/undisturbed-rug.cloudvent.net/compressed/9b4a0ea685a2046f100031b5aefa6c80.png",
+	"details-hd": "How your bill adds up",
+	"details-sub": "The details of your charges, credits and discounts",
+	"details-tab-label-01": "Charges",
+	"details-tab-label-02": "Credits",
+	"details-tab-label-03": "Breakdown",
+	"details-tab-content-01": "//d1qmdf3vop2l07.cloudfront.net/undisturbed-rug.cloudvent.net/compressed/af5ac7a84f64a467ea51cb32915ac958.png",
+	"details-tab-content-02": "//d1qmdf3vop2l07.cloudfront.net/undisturbed-rug.cloudvent.net/compressed/e9d4127758aa77245e21dc7f35d919d7.png",
+	"details-tab-content-03": "//d1qmdf3vop2l07.cloudfront.net/undisturbed-rug.cloudvent.net/compressed/c99747035c19c920f2089b469bcd445a.png"
 }
