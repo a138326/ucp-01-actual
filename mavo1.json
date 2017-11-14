@@ -22,14 +22,15 @@
 	"usage-tab-label-01": "Trends",
 	"usage-tab-label-02": "Compare",
 	"usage-tab-label-03": "By Appliance",
-	"usage-tab-content-01": "https://cdn.rawgit.com/a138326/ucp-01-actual/3a6dc0b266db0d1bcb48296a72a0a9e51084735b/images/Trends%20Seg.png",
-	"usage-tab-content-02": "https://cdn.rawgit.com/a138326/ucp-01-actual/1164f824dd8c606b8f4f2917ef34ab10bd94622e/images/Compre%20Seg.png",
-	"usage-tab-content-03": "https://cdn.rawgit.com/a138326/ucp-01-actual/4eb1a728f97ee739683076cad73b28a81549bcbf/images/Appp%20Seg.png",
+	"usage-tab-content-01": "https://cdn.rawgit.com/a138326/ucp-01-actual/5590aeccd80612f51ad7c18ffa5e73f7e16737e3/images/Trends%20Seg.png",
+	"usage-tab-content-02": "https://cdn.rawgit.com/a138326/ucp-01-actual/f997c14b2cf043c7263dea993be20cbdf7ec610e/images/Compre%20Seg.png",
+	"usage-tab-content-03": "https://cdn.rawgit.com/a138326/ucp-01-actual/831eb8c8c84ffc997b0263ec32ed655f66eeb984/images/Appp%20Seg.png",
 	"plan-hd": "Your plans and rates",
 	"plan-sub": " ",
 	"plan-tab-label-01": "Plan",
 	"plan-tab-label-02": "Rates",
-	"plan-tab-content-01": "https://cdn.rawgit.com/a138326/ucp-01-actual/05a49886b5991aab0e68d0276fb3f15efecabf98/images/s01%20Plans.png",
-	"plan-tab-content-02": "https://cdn.rawgit.com/a138326/ucp-01-actual/2d1fb87967241757f86d84ad4bc17a868e7fdb2a/images/Rates2.png",
-	"help-tab-content-01": "https://cdn.rawgit.com/a138326/ucp-01-actual/6b2f0d1cb7fe7fb09c61351e0e6d2a1f1c1c0d09/images/Access:help.png"
+	"plan-tab-content-01": "https://cdn.rawgit.com/a138326/ucp-01-actual/fee6b82131ed6f528f00acc1a62fbc52f4128e4e/images/s01%20Plans.png",
+	"plan-tab-content-02": "https://cdn.rawgit.com/a138326/ucp-01-actual/a67836e8c68b03bb78c1039ced053ba369efccce/images/rates.png",
+	"help-tab-content-01": "https://cdn.rawgit.com/a138326/ucp-01-actual/6b2f0d1cb7fe7fb09c61351e0e6d2a1f1c1c0d09/images/Access:help.png",
+	"help-tab-content-02": "//d1qmdf3vop2l07.cloudfront.net/undisturbed-rug.cloudvent.net/compressed/865ae10b28ed2a2c6756da3ba12a43f6.png"
 }
